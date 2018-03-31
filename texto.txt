@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Alguns preferem ter razao, eu prefiro ter paz
+=======
+show
+>>>>>>> 2cb44a2... Um passo de cada vez
